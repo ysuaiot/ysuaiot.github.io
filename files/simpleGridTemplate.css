@@ -8,8 +8,8 @@ body {
 /* Container */
 .container {
 	width: 100%;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: #FFFFFF;
 }
 /* Header */
@@ -103,6 +103,7 @@ header {
 }
 .intro .column p {
 	padding-top: -20px;
+	padding-right: 5px;
 	color: #000;
 }
 .cards {
