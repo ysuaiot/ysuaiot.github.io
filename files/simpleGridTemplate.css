@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Georgia, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	background-color: #FFFFFF;
 	margin: 0;
 }
@@ -89,7 +89,7 @@ header {
 /* More info */
 .intro {
 	background-color: #001010	;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 }
 .column {
 	width: 50%;
